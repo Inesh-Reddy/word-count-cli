@@ -1,0 +1,17 @@
+{
+  "name": "fundas",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
